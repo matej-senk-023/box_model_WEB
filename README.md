@@ -1,1 +1,1 @@
-# BoxModel DJI mini
+# BoxModel DJI Mini
